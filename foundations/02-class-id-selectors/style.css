@@ -1,0 +1,27 @@
+.p1 {
+  background-color: rgb(194, 67, 88);
+  font-family: verdana,'Dejavu sans',sans-serif;
+
+}
+
+.p2 {
+  background-color: rgb(194, 67, 88);
+  font-family: verdana,'Dejavu sans',sans-serif;
+  font-size: 24px;
+}
+
+.p3 {
+  background-color: rgb(194, 67, 88);
+  font-family: verdana,'Dejavu sans',sans-serif;
+}
+
+#div1 {
+  color: rgb(43, 43, 223);
+  font-size: 36px;
+}
+
+#div2 {
+  background-color: rgb(144, 197, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
